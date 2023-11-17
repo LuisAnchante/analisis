@@ -121,5 +121,5 @@ def analyze_sentiments_nb(nb_clicks, svm_clicks, rf_clicks, nb_user_text, svm_us
 
 # Iniciar la aplicación
 if __name__ == "__main__":
-    #app.run_server(debug=True)
-    app.run_server(debug=False)
+    app.run_server(debug=True)
+    #app.run_server(debug=False)
