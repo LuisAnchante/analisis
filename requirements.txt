@@ -1,0 +1,11 @@
+# Function dependencies, for example:
+# package>=version
+
+dash==2.13.0
+pandas==1.1.5
+flask==2.0.1
+werkzeug==2.2.2
+joblib
+scikit-learn
+matplotlib
+
