@@ -9,4 +9,4 @@ joblib
 scikit-learn
 matplotlib
 gunicorn
-scipy
+
