@@ -19,6 +19,7 @@ vectorizer = joblib.load('vectorizador.pkl')
 
 # Inicializar la aplicación Dash
 app = dash.Dash(__name__)
+server = app.server
 
 # Definir el diseño de la aplicación
 app.layout = html.Div([
