@@ -8,4 +8,4 @@ werkzeug==2.2.2
 joblib
 scikit-learn
 matplotlib
-
+gunicorn
